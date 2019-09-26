@@ -12,7 +12,7 @@ import java.util.List;
 
 @Entity
 public class Menu {
-
+//
     @Id
     @GeneratedValue
     private int id;
